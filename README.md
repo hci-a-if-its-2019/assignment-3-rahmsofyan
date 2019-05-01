@@ -308,8 +308,11 @@ ________________________________________________
 ## Part B: Prototyping (again)
 
 ### Sketch
-![Sketch]()
+![Sketch](/assets/sket.PNG)
 
 ### Design Rationale
+Users prefer to manually search for data or proposal titles except using features displayed in the form of buttons on the side screen.
+This might happen because users are not too aware of using features that indicate users do not recognize search icons (including search, sorting, filter), or users are not too frustrated in searching for data because there are not too many data proposals, it might be different if there is a lot of data. Even though, using the search feature (including search, sorting, filter) can make finding proposal data easy. The solution is to make the tips that first appear on the proposal page list.
 
+Users is familiar with the menu in the form of dropdown specially in mobile mode,so is make it easy developers to create menu experience.
 ### High-Fidelity Interactive-Prototype
