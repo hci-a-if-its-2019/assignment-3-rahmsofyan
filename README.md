@@ -1,6 +1,6 @@
 ________________________________________________
-*Rahma Sofyantoro*
-*05111640000117*
+**Rahma Sofyantoro**
+**05111640000117**
 ________________________________________________
 ---
 
@@ -197,6 +197,7 @@ ________________________________________________
 1. **Participant** : saran mungkin menu ini(fitur samping) keluar setelah (klik baris) jadi 
 				  kita fokus ke judul dulu, atau dikasih di atas
 1. **Interviewer** : dikasih bawah menu musrenbang ?
+1. **Participant** : Iya
 
 
 ### 4. Feedback and Incidence Analysis
