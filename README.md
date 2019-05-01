@@ -71,7 +71,7 @@ ________________________________________________
 1. **Participant** : maksudnya gimana
 1. **Interviewer** : carikan judul dengan pembangunan jalan dengan pembatas tiap jalan 
 				 disertai lampu penerangan (menjelajahi semua menu dan fitur)
-1. **Participant** : mengklik filter, di sort berarti (menjelajahi menu)
+1. **Participant** :(mengklik filter), di sort berarti (menjelajahi menu,dan kembali ke daftar proposal)
 1. **Interviewer** : oke udah, selanjutnya carikan judul proposal ke 20
 1. **Participant** : menunjukan
 1. **Interviewer** : oke udah,carikan proposal alram banjir 
@@ -101,7 +101,7 @@ ________________________________________________
 1. **Participant** : harusnya fungsi ini bisa ya (filter)?
 1. **Interviewer** : coba aja
 1. **Participant** : (menggeser fungsi filter dan menekan filter)
-1. **Interviewer** : oke,tampilkan proposal yang berada di
+1. **Interviewer** : oke,(selanjutnya)tampilkan proposal yang berada di
 	             "kecamatan : kenjeran
 				  kelurahan : kalikedinding
 				  Tipe Pekerjaan     : Fisik
@@ -153,7 +153,7 @@ ________________________________________________
 1. **Interviewer** : iya bener,selanjutnya cari proposal alarm banjir
 1. **Participant** : (mencari manual)
 1. **Interviewer** : bener,carikan proposal dengan awalan lapangan
-1. **Participant** : ini
+1. **Participant** : (mencari manual) ini
 1. **Interviewer** : iya bener,selanjutnya cariin proposal dengan harga tertinggi
 1. **Participant** : (mencari manual)
 1. **Interviewer** : kalau biru-biru kilat bisa dipencet
@@ -163,7 +163,7 @@ ________________________________________________
 1. **Interviewer** : bener,selanjutnya carikan proposal dengan rentang 20.000.000 - 
  			     500.000.000
 1. **Participant** : Ini alarm50,kolam budaya50,tugu pahlawan 50,lampu penerangan 
-  	             50,pembangunan jalan 500
+  	             50,pembangunan jalan 500 (mencari manual)
 1. **Interviewer** : oke,tamukan proposal yang berada di
 			  " kecamatan : kenjeran
 	  			kelurahan : kalikedinding
@@ -205,9 +205,9 @@ ________________________________________________
 #### OBSERVATION 1
 ![Daftar](/assets/home.png)
 
- - **Reference**:  -
+ - **Reference**:
 
- - **Feedback**: -
+ - **Feedback**: 
 
  - **Incidence**: -
 
@@ -243,52 +243,52 @@ ________________________________________________
  #### OBSERVATION 4
 ![Daftar](/assets/menu.PNG)
 
- - **Reference**:  -
+ - **Reference**: 1.Participant 2:44 2.Participant 2:36
 
- - **Feedback**: -
+ - **Feedback**: Positif Feedback, Participant can recognize menu
 
- - **Incidence**: -
+ - **Incidence**: Participants can enter into menu fastly
 
- - **Reason**: -
+ - **Reason**: Participants have mental model to use menu in dropdown form
 
  - **Resolution**: -
  #### OBSERVATION 5
 ![Daftar](/assets/search.PNG)
 
- - **Reference**:  -
+ - **Reference**: 1.Participant 1:18  2.Participant 2:18
 
- - **Feedback**: -
+ - **Feedback**: Negatif Feedback, Participant not too aware to use button
 
- - **Incidence**: -
+ - **Incidence**: Participants prefer to find manually 
 
- - **Reason**: -
+ - **Reason**: Not to many rows ,and no too urge to find data
 
- - **Resolution**: -
+ - **Resolution**: Give flash tutorial or tips in first appear in page
 
  #### OBSERVATION 6
 ![Daftar](/assets/sort.PNG)
 
- - **Reference**:  -
+ - **Reference**: 1.Participant 1 :16,24,28  2.Participant 2: 16,20,22,24
 
- - **Feedback**: -
+ - **Feedback**: Negatif Feedback, Participant not too aware to use button
 
- - **Incidence**: -
+ - **Incidence**: Participants prefer to find manually 
 
- - **Reason**: -
+ - **Reason**: Not to many rows ,and no too urge to find data
 
- - **Resolution**: -
+ - **Resolution**: Give flash tutorial or tips in first appear in page
  #### OBSERVATION 7
 ![Daftar](/assets/filter.PNG)
 
- - **Reference**:  -
+ - **Reference**:  1.Participant 2 :16,20,22,24
 
- - **Feedback**: -
+ - **Feedback**: Negatif Feedback,Participant not too aware to use button
 
- - **Incidence**: -
+ - **Incidence**: Participants prefer to find manually 
 
- - **Reason**: -
+ - **Reason**: Not to many rows ,and no too urge to find data
 
- - **Resolution**: -
+ - **Resolution**: Give flash tutorial or tips in first appear in page
 
  #### OBSERVATION 8
 ![Daftar](/assets/pencarian.PNG)
