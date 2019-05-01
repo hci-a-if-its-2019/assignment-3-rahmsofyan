@@ -253,7 +253,7 @@ ________________________________________________
 
  - **Resolution**: -
  #### OBSERVATION 5
-![Daftar](/assets/search.PNG)
+![Daftar](/assets/error_search.PNG) ![Daftar](/assets/search.PNG)
 
  - **Reference**: 1.Participant 1:18  2.Participant 2:18
 
@@ -266,7 +266,7 @@ ________________________________________________
  - **Resolution**: Give flash tutorial or tips in first appear in page
 
  #### OBSERVATION 6
-![Daftar](/assets/sort.PNG)
+![Daftar](/assets/error_sort.PNG) ![Daftar](/assets/sort.PNG)
 
  - **Reference**: 1.Participant 1 :16,24,28  2.Participant 2: 16,20,22,24
 
@@ -278,7 +278,7 @@ ________________________________________________
 
  - **Resolution**: Give flash tutorial or tips in first appear in page
  #### OBSERVATION 7
-![Daftar](/assets/filter.PNG)
+![Daftar](/assets/error_filter.PNG) ![Daftar](/assets/filter.PNG)
 
  - **Reference**:  1.Participant 2 :16,20,22,24
 
