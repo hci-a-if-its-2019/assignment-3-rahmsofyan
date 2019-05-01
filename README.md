@@ -203,7 +203,7 @@ ________________________________________________
 ### 4. Feedback and Incidence Analysis
 
 #### OBSERVATION 1
-![Daftar]()
+![Daftar](/assets/home.png)
 
  - **Reference**:  -
 
@@ -215,8 +215,95 @@ ________________________________________________
 
  - **Resolution**: -
 
- 
- ---
+ #### OBSERVATION 2
+![Daftar](/assets/daftar.PNG)
+
+ - **Reference**:  -
+
+ - **Feedback**: -
+
+ - **Incidence**: -
+
+ - **Reason**: -
+
+ - **Resolution**: -
+ #### OBSERVATION 3
+![Daftar](/assets/expandrow.PNG)
+
+ - **Reference**:  -
+
+ - **Feedback**: -
+
+ - **Incidence**: -
+
+ - **Reason**: -
+
+ - **Resolution**: -
+
+ #### OBSERVATION 4
+![Daftar](/assets/menu.PNG)
+
+ - **Reference**:  -
+
+ - **Feedback**: -
+
+ - **Incidence**: -
+
+ - **Reason**: -
+
+ - **Resolution**: -
+ #### OBSERVATION 5
+![Daftar](/assets/search.PNG)
+
+ - **Reference**:  -
+
+ - **Feedback**: -
+
+ - **Incidence**: -
+
+ - **Reason**: -
+
+ - **Resolution**: -
+
+ #### OBSERVATION 6
+![Daftar](/assets/sort.PNG)
+
+ - **Reference**:  -
+
+ - **Feedback**: -
+
+ - **Incidence**: -
+
+ - **Reason**: -
+
+ - **Resolution**: -
+ #### OBSERVATION 7
+![Daftar](/assets/filter.PNG)
+
+ - **Reference**:  -
+
+ - **Feedback**: -
+
+ - **Incidence**: -
+
+ - **Reason**: -
+
+ - **Resolution**: -
+
+ #### OBSERVATION 8
+![Daftar](/assets/pencarian.PNG)
+
+ - **Reference**:  -
+
+ - **Feedback**: -
+
+ - **Incidence**: -
+
+ - **Reason**: -
+
+ - **Resolution**: -
+
+---
 
 ## Part B: Prototyping (again)
 
