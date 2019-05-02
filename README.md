@@ -206,7 +206,7 @@ ________________________________________________
 #### OBSERVATION 1
 ![Daftar](/assets/home.png)
 
- - **Reference**:
+ - **Reference**:1.Participant 1 :6  2.Participant 2:6
 
  - **Feedback**: 
 
@@ -219,7 +219,7 @@ ________________________________________________
  #### OBSERVATION 2
 ![Daftar](/assets/daftar.PNG)
 
- - **Reference**:  -
+ - **Reference**: 1.Participant 1 :8  2.Participant 2:10
 
  - **Feedback**: -
 
@@ -231,7 +231,7 @@ ________________________________________________
  #### OBSERVATION 3
 ![Daftar](/assets/expandrow.PNG)
 
- - **Reference**:  -
+ - **Reference**:  1.Participant 1 :12  2.Participant 2:12
 
  - **Feedback**: -
 
@@ -294,7 +294,7 @@ ________________________________________________
  #### OBSERVATION 8
 ![Daftar](/assets/pencarian.PNG)
 
- - **Reference**:  -
+ - **Reference**: 1.Participant 1 :39  2.Participant 2:34
 
  - **Feedback**: -
 
